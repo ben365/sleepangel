@@ -4,7 +4,7 @@ Open smart clock project
 # Description
 Smart clock project I develop (with my spare time) a connected clock, which monitors sleep cycle (with captors), and wake up you at best moment. It can wake up you with informations like weather, news, bus schedule, etc.. Today it works only at home with WiFi but may be with mobile network in future.
 
-**_Next description is in french_**
+**_Following is in french_**
 
 # Présentation
 
