@@ -43,6 +43,6 @@ Le projet SleepAngel est un projet de réveil intelligent. L'objectif est de ré
 
 # Prototype
 
-![Boite](/prototype/P1030010.JPG)
-![Interieur](/prototype/P1030011.JPG)
+![Boite](https://raw.githubusercontent.com/ben365/sleepangel/master/prototype/P1030010.JPG)
+![Interieur](https://raw.githubusercontent.com/ben365/sleepangel/master/prototype/P1030011.JPG)
 
